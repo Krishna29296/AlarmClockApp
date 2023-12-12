@@ -1,7 +1,3 @@
-🪧 Demo :- https://akshay0326.github.io/Alarm-Clock/
-
----
-
 About the Project :-
 
 🔴 This project is an clocked based alarm project
@@ -48,9 +44,4 @@ Nothing crazy just download the zip and run LIVE_SERVER.
 
 ---
 
-🙎 Contact .
 
-    🔗 Author - @Akshay Kumar - akshaykumarsinha0326@gmail.com - +91-7562863220
-
-    ✅ Linkedin ✅ https://www.linkedin.com/in/itsakshaykrs/ ✅
-    ✅ Github   ✅ https://github.com/Akshay0326             ✅
